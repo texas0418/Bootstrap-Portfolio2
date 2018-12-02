@@ -1,0 +1,14 @@
+.navbar-brand {
+    padding: 10px;
+    font-size: 35px;
+    background-color: #4aaaa5;
+}
+
+.container {
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+.container-port {
+    margin-top: 20px;
+}
