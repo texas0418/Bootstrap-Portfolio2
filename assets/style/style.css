@@ -1,14 +1,19 @@
 .navbar-brand {
-    padding: 10px;
-    font-size: 35px;
-    background-color: #4aaaa5;
+  padding: 10px;
+  font-size: 35px;
+  background-color: #4aaaa5;
 }
 
 .container {
-    margin-top: 50px;
-    padding-top: 30px;
+  margin-top: 50px;
+  padding-top: 30px;
 }
 
 .container-port {
-    margin-top: 20px;
+  margin-top: 20px;
+}
+img {
+  float: left;
+  width: 350px;
+  height: 260px;
 }
